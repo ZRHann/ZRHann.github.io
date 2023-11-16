@@ -1,0 +1,1 @@
+nohup npx hexo server -p 3002 > ../blog.log 2>&1 &
