@@ -2,6 +2,7 @@
 title: python实现中国象棋（一）
 date: 2024-02-17 16:51:50
 tags:
+typora-root-url: ..
 ---
 
 
@@ -68,7 +69,7 @@ for row in chess_board:
 
 效果：
 
-![image-20240217165436075](python从零开始实现中国象棋（一）初始棋盘设计.assets/image-20240217165436075.png)
+![image-20240217220208211](/images/python从零开始实现中国象棋（一）初始棋盘设计/image-20240217220208211.png)
 
 ## 二、判断每个子的合法移动目标
 
@@ -192,7 +193,7 @@ chess_board.print_board()
 
 效果
 
-![image-20240217173231705](python从零开始实现中国象棋（一）初始棋盘设计.assets/image-20240217173231705.png)
+![image-20240217220324100](/images/python从零开始实现中国象棋（一）初始棋盘设计/image-20240217220324100.png)
 
 ### get_possible_moves框架
 
@@ -485,7 +486,7 @@ def _get_knight_moves(self, row, col):
     return possible_moves
 ```
 
-### 三、实现落子交互逻辑
+## 三、实现落子交互逻辑
 
 命令行输入，检查移动合法性，改变棋盘状态。
 
@@ -562,10 +563,12 @@ if __name__ == '__main__':
     chess_board.start_game()
 ```
 
-![image-20240217203313883](python从零开始实现中国象棋（一）初始棋盘设计.assets/image-20240217203313883.png)
+![image-20240217220409445](/images/python从零开始实现中国象棋（一）初始棋盘设计/image-20240217220409445.png)
 
 至此，可以实现命令行交互落子，能对不合法的落子给出提示，能正确改变棋盘状态。
 
 此阶段完整代码：
 
 https://github.com/ZRHann/chinese_chess/tree/a66cfe86c26b768a60a30d72fd5471db9097622a
+
+下一部分将实现简单的对弈AI。
