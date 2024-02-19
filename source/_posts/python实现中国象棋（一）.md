@@ -7,7 +7,7 @@ typora-root-url: ..
 
 
 
-（大量使用了chatgpt）
+（代码编写大量使用了chatgpt）
 
 ## 初始棋盘设计和打印
 
