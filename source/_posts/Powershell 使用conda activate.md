@@ -46,5 +46,3 @@ Get-ExecutionPolicy
 ```
 Set-ExecutionPolicy Unrestricted
 ```
-
-可能有其他方法，例如将这个profile.ps1添加为可信任，也许更安全。
