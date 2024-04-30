@@ -2503,4 +2503,4 @@ for i in range(0, len(ans), 4):
 
 打开IDA搜索W4terCTF。
 
-![image-20240429191012362](w4terctf_zrh.assets/image-20240429191012362.png)
+![image-20240429191012362](/images/W4terCTF_2024_SCC旅游队_WP/image-20240429191012362.png)
