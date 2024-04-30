@@ -6,9 +6,9 @@ tags:
 typora-root-url: ..
 ---
 
-![image-20240501000403233](/images/W4terCTF 2024 SCC旅游队 WP/image-20240501000403233.png)
+![image-20240501000403233](/images/W4terCTF_2024_SCC旅游队_WP/image-20240501000403233.png)
 
-![image-20240501000343394](/images/W4terCTF 2024 SCC旅游队 WP/image-20240501000343394.png)
+![image-20240501000343394](/images/W4terCTF_2024_SCC旅游队_WP/image-20240501000343394.png)
 
 # MISC
 
