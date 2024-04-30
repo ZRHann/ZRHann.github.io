@@ -1,5 +1,5 @@
 ---
-title: W4terCTF_2024_SCC旅游队_WP
+title: W4terCTF 2024 SCC旅游队 WP
 date: 2024-04-30 23:31:32
 tags:
 
