@@ -41,3 +41,16 @@ git commit -m "提交信息"
 git push origin main
 ```
 
+
+
+### 添加已push文件到`.gitignore`
+
+额外地，
+
+```
+git rm --cached 文件名
+# 如果是文件夹，则添加 -r 选项
+git rm --cached -r 文件夹名
+```
+
+然后commit并push。
