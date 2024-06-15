@@ -12,17 +12,16 @@ tags:
 
 ```
 sudo mkdir -p /etc/systemd/system/docker.service.d
-sudo nano /etc/systemd/system/docker.service.d/http-proxy.conf
+sudo vim /etc/systemd/system/docker.service.d/http-proxy.conf
 ```
 
 
 
-**在配置文件中添加以下内容**： 如果您的代理服务器运行在本地，地址是 `127.0.0.1` 或 `172.17.0.1`，根据您的实际配置选择其中一个：
+**在配置文件中添加以下内容**:
 
 ```
 [Service]
 Environment="HTTP_PROXY=http://127.0.0.1:7890"
-Environment="HTTPS_PROXY=http://127.0.0.1:7890"
 ```
 
 
