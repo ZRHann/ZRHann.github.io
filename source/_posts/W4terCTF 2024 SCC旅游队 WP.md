@@ -1,8 +1,7 @@
 ---
-title: W4terCTF 2024 SCC旅游队 WP
+title: W4terCTF24 SCC旅游队WP(部分)
 date: 2024-04-30 23:31:32
 tags:
-
 typora-root-url: ..
 ---
 

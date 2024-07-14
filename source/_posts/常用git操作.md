@@ -4,18 +4,6 @@ date: 2023-12-17 22:00:50
 tags:
 ---
 
-
-
-### 推送到远程仓库
-
-```
-git add .
-git commit -m "提交信息"
-git push origin main
-```
-
-
-
 ### 版本回退
 
 ```
