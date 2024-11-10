@@ -6,7 +6,7 @@ tags:
 
 
 
-tcp的frp会被运营商阻断。测试环境：frps、frpc均为0.59.0版本，frps在国内阿里云（无备案），frpc在frps同一台机器、azure新加坡都可以正常连接，但在校园网windows、校园网linux、移动云电脑linux无法连接，报错：
+tcp的frp会被运营商阻断。测试环境：frps、frpc均为0.59.0版本，frps在国内阿里云（无备案），frpc在：与frps同一台机器、azure新加坡，都可以正常连接，但frpc在校园网windows、校园网linux、移动云电脑linux无法连接，报错：
 
 ```
 login to the server failed: i/o deadline reached. With loginFailExit enabled, no additional retries will be attempted
