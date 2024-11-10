@@ -3,6 +3,7 @@ title: W4terCTF24 SCC旅游队WP(部分)
 date: 2024-04-30 23:31:32
 tags:
 typora-root-url: ..
+toc: true
 ---
 
 ![image-20240501000403233](/images/W4terCTF_2024_SCC旅游队_WP/image-20240501000403233.png)

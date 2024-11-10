@@ -3,11 +3,10 @@ title: Hackergame24 Writeup
 date: 2024-11-11 23:31:32
 tags:
 typora-root-url: ..
+toc: true
 ---
 
 
-
-# Hackergame24 Writeup
 
 ![image-20241110203743680](/images/Hackergame24_WP/image-20241110203743680.png)
 
