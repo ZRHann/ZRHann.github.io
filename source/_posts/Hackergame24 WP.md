@@ -1,10 +1,13 @@
 ---
-typora-root-url: ./..
+title: Hackergame24 Writeup
+date: 2024-04-30 23:31:32
+tags:
+typora-root-url: ..
 ---
 
 
 
-# hackergame24 writeup
+# Hackergame24 Writeup
 
 ![image-20241110203743680](/images/Hackergame24_WP/image-20241110203743680.png)
 
