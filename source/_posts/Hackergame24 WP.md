@@ -6,7 +6,7 @@ typora-root-url: ./..
 
 # hackergame24 writeup
 
-![image-20241110203743680](/images/Hackergame24 WP/image-20241110203743680.png)
+![image-20241110203743680](/images/Hackergame24_WP/image-20241110203743680.png)
 
 
 
@@ -16,21 +16,21 @@ typora-root-url: ./..
 
 ### 喜欢做签到的CTFer你们好呀
 
-![image-20241110160930317](/images/Hackergame24 WP/image-20241110160930317.png)
+![image-20241110160930317](/images/Hackergame24_WP/image-20241110160930317.png)
 
-![image-20241110160943948](/images/Hackergame24 WP/image-20241110160943948.png)
+![image-20241110160943948](/images/Hackergame24_WP/image-20241110160943948.png)
 
-![image-20241110161015899](/images/Hackergame24 WP/image-20241110161015899.png)
+![image-20241110161015899](/images/Hackergame24_WP/image-20241110161015899.png)
 
-![image-20241110161045059](/images/Hackergame24 WP/image-20241110161045059.png)
+![image-20241110161045059](/images/Hackergame24_WP/image-20241110161045059.png)
 
-![image-20241110161119964](/images/Hackergame24 WP/image-20241110161119964.png)
+![image-20241110161119964](/images/Hackergame24_WP/image-20241110161119964.png)
 
 ### 猫咪问答
 
 #### 第一题
 
-![image-20241110161243196](/images/Hackergame24 WP/image-20241110161243196.png)
+![image-20241110161243196](/images/Hackergame24_WP/image-20241110161243196.png)
 
 #### 第二题
 
@@ -42,9 +42,9 @@ typora-root-url: ./..
 
 #### 第四题
 
-![image-20241110161551182](/images/Hackergame24 WP/image-20241110161551182.png)
+![image-20241110161551182](/images/Hackergame24_WP/image-20241110161551182.png)
 
-![image-20241110161929801](/images/Hackergame24 WP/image-20241110161929801.png)
+![image-20241110161929801](/images/Hackergame24_WP/image-20241110161929801.png)
 
 ### 第六题
 
@@ -167,7 +167,7 @@ int main() {
 
 所以只需要`${_:1-6:1}386`，然后`cat /flag`
 
-![image-20241110163900581](/images/Hackergame24 WP/image-20241110163900581.png)
+![image-20241110163900581](/images/Hackergame24_WP/image-20241110163900581.png)
 
 ### Node.js is Web Scale
 
@@ -614,7 +614,7 @@ for i in range(0, 64):
 
 一开始想传个二维码库进去，发现要传十分钟还是算了，还是直接这样：
 
-![image](/images/Hackergame24 WP/image.png)
+![image](/images/Hackergame24_WP/image.png)
 
 然后二值化一下，识别中心点的黑白即可。自动化截图的流程，半个消失就能截完。
 
@@ -1540,4 +1540,4 @@ hackergame打了23和24两年，实际上今年花在hg的时间是比去年多�
 
 最后，被大一学弟薄纱了...
 
-![image-20241110203719283](/images/Hackergame24 WP/image-20241110203719283.png)
+![image-20241110203719283](/images/Hackergame24_WP/image-20241110203719283.png)
