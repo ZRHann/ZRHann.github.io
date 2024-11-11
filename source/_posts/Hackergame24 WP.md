@@ -843,7 +843,7 @@ print(f"{output_file_path} generated.")
 
 #### 第二题
 
-高强度搜索docker相关漏洞，从https://psych.green/2024/03/02/Docker%E5%AE%B9%E5%99%A8%E9%80%83%E9%80%B8/可以得到一个利用docker.sock来逃逸的漏洞。
+高强度搜索docker相关漏洞，从https://psych.green/2024/03/02/Docker%E5%AE%B9%E5%99%A8%E9%80%83%E9%80%B8/ 可以得到一个利用docker.sock来逃逸的漏洞。
 
 具体来说，这个文件是docker客户端和docker守护进程通信的文件。我们通过修改宿主机里的这个文件，就可以操控宿主机里的docker守护进程。例如，让宿主机里新建一个docker，并且以root权限挂载/dev/vdb。
 
@@ -1434,6 +1434,8 @@ pyautogui.typewrite(auto_str)
 基于这两点，可以进行dfs。
 
 关于让llama从某个前缀开始生成，可以先调试定位到它添加`<|im_end|>\n<|im_start|>assistant\n`的地方，然后把添加这个后缀的代码去掉。具体在`llama_chat_format.py` 的575行左右。
+
+另外这玩意是可以上卡的，不过编译gpu版本需要很长时间。开始写代码之前新建一个venv装gpu版本的llama cpp，代码写完也差不多编译好了。用自己机器上4060，总体还是快很多的。
 
 ```python
 import random
